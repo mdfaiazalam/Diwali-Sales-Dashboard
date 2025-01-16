@@ -34,24 +34,39 @@ Amount: Total amount spent by the customer.
 ## Key Metrics Displayed
 
 Total Sales: Sum of the "Amount" column.
+
 Average Order Value: Calculated as Total Amount / Total Orders.
+
 Top Customers: Customers ranked by total amount spent.
+
 Regional Sales: Sales grouped by zones or states.
+
 Customer Demographics:
+
 Sales by Gender.
+
 Sales by Age Group.
+
 Sales by Marital Status.
+
 Product Analysis:
+
 Total sales by Product Category.
+
 Orders categorized into "Low Orders (1-2)", "Medium Orders (3-4)", and "High Orders (5+)".
 
 The dashboard includes slicers for:
 
 Gender
+
 Age Group
+
 Zone
+
 State
+
 Marital Status
+
 Product Category
 
 These slicers allow users to dynamically filter data and view specific subsets of the dataset.
