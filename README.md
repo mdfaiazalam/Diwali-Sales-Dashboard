@@ -4,9 +4,7 @@ This project involves creating an interactive and insightful dashboard using Mic
 
 ## Dataset Overview
 ### The dataset contains the following columns:
-
 User_ID: Unique identifier for each customer.
-
 Cust_name: Name of the customer.
 
 Product_ID: Unique identifier for each product.
