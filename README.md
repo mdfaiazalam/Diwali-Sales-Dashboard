@@ -3,31 +3,19 @@ This project involves creating an interactive and insightful dashboard using Mic
 
 
 ## Dataset Overview
-### The dataset contains the following columns:
-User_ID: Unique identifier for each customer.
-Cust_name: Name of the customer.
-
-Product_ID: Unique identifier for each product.
-
-Gender: Gender of the customer.
-
-Age Group: The age range of the customer.
-
-Age: Exact age of the customer.
-
-Marital_Status: Marital status (0 = Single, 1 = Married).
-
-State: State where the customer resides.
-
-Zone: Zone of the customer (e.g., Western, Southern, Central, etc.).
-
-Occupation: Profession of the customer.
-
-Product_Category: Category of the purchased product.
-
-Orders: Number of orders placed by the customer.
-
-Amount: Total amount spent by the customer.
+* User_ID: Unique identifier for each customer.
+* Cust_name: Name of the customer.
+* Product_ID: Unique identifier for each product.
+* Gender: Gender of the customer.
+* Age Group: The age range of the customer.
+* Age: Exact age of the customer.
+* Marital_Status: Marital status (0 = Single, 1 = Married).
+* State: State where the customer resides.
+* Zone: Zone of the customer (e.g., Western, Southern, Central, etc.).
+* Occupation: Profession of the customer.
+* Product_Category: Category of the purchased product.
+* Orders: Number of orders placed by the customer.
+* Amount: Total amount spent by the customer.
 
 ## Key Metrics Displayed
 
