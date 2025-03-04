@@ -45,18 +45,12 @@ Orders categorized into "Low Orders (1-2)", "Medium Orders (3-4)", and "High Ord
 ### The dashboard includes slicers for:
 
 Gender
-
-Age Group
-
-Zone
-
-State
-
-Marital Status
-
-Product Category
-
-These slicers allow users to dynamically filter data and view specific subsets of the dataset.
+* Age Group
+* Zone
+* State
+* Marital Status
+* Product Category
+* These slicers allow users to dynamically filter data and view specific subsets of the dataset.
 
 ##Steps to Create the Dashboard
 
