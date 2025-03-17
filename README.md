@@ -8,7 +8,7 @@ This project involves creating an interactive and insightful dashboard using Mic
 * Cust_name: Name of the customer.
 * Product_ID: Unique identifier for each product.
 * Gender: Gender of the customer.
-* Age Group: The age range of the customer.
+* Age Group: The age range of the customer. 
 * Age: Exact age of the customer.
 * Marital_Status: Marital status (0 = Single, 1 = Married).
 * State: State where the customer resides.
